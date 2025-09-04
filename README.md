@@ -70,5 +70,4 @@ groq-chat
 
 MIT © 2025 [Shehzad Shifa](mailto:shehzadshifa@gmail.com)
 
-```
 
